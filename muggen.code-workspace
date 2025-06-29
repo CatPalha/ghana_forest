@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"name": "Muggen: main",
+				"type": "python",
+				"request": "launch",
+				"program": "/home/cat/Documents/NOVA/muggen/code/main.py",
+				"console": "integratedTerminal"
+			}
+		]
+	}
+}
